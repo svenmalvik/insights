@@ -1,3 +1,5 @@
 = Insights
 
-image::pull-request/pull-request.jpg[]
+## Pull Request
+
+image::pull-request/pull-request.jpg[pull-request]
