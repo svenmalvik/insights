@@ -1,0 +1,3 @@
+= Insights
+
+image::pull-request/pull-request.jpg[]
