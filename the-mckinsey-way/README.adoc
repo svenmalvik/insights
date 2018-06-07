@@ -5,28 +5,22 @@
 - Structure your information thoroughly and make sure your data mutually exclusive each other.
 - Come up with a hypotheses; otherwise you waste too much time looking for ideas.
 
-## Data visualization
-- Present your data with charts.
-- Have one message per chart.
-- If possible; go for the flow with the waterfall chart.
-
-## Communication
+### Communicating information.
 - A good business message has three attributes; brevity, thoroughness and structure.
-- Know your solution thoroughly that you can explain it in 30 seconds.
-
-## Meetings
+- Present your message or data with charts if possible, but not too many.
+- Have one message per chart.
 - Write a guide before each meeting.
 - Let the participants know that you are active listening. Take notes, always.
 
-## Expectations
+### Expectations of you.
+- Know your solution thoroughly that you can explain it in 30 seconds.
 - Businesspeople and organizations accept only perfection.
 - It's said that you are only as good as your last study.
 - Trust and verify.
 
-## Other things
+### Other things.
 - Before looking for a solution, get a feel for the scope of the problem.
 - Ask yourself at the end of the day, what are the three most important things I learned today. Put them down in a chart or two.
 - Always ask yourself why something is done this way? Is this the best way it can be done? Be fundamentally sceptical.
 - Get your job done-don't try to do the work of the whole team.
 - Look for best practice.
-
