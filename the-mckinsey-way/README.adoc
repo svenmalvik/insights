@@ -1,4 +1,4 @@
-# Take Aways fom the book - The McKinsey Way
+# Takeaways fom the book - The McKinsey Way
 
 ## MECE - Mutually Exclusive (ME) and Collectively Exhaustive (CE)
 - Analyse properly and collect facts exhausivly. Problems are immune to the power of fact-based analisys.
