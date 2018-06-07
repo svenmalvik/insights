@@ -1,5 +1,5 @@
 = Insights
 
-## Pull Request
+== /pull-request
 
 image::pull-request/pull-request.jpg[pull-request]
