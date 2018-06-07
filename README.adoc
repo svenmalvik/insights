@@ -1,5 +1,7 @@
 = Insights
 
-== /pull-request
-
+== Comments on Pull Requests
 image::pull-request/pull-request.jpg[pull-request]
+
+== Takeaways from the book "The McKinsey Way"
+image::the-mckinsey-way/the-mckinsey-way.jpg[the-mckinsey-way]
