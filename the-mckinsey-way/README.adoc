@@ -1,33 +1,33 @@
 # The McKinsey Way
 
 ## MECE
-Be MECE. -  mutually exclusive (ME) and collectively exhaustive (CE)
-Analysis - Structure - Hypothesis.
-Problems are immune to the power of fact-based analisys.
-Businesspeople and organizations accept only perfection.
-At McKinsey, it's said that you are only as good as your last study.
-Trust and verify.
+- Be MECE. -  mutually exclusive (ME) and collectively exhaustive (CE)
+- Analysis - Structure - Hypothesis.
+- Problems are immune to the power of fact-based analisys.
+- Businesspeople and organizations accept only perfection.
+- At McKinsey, it's said that you are only as good as your last study.
+- Trust and verify.
 
 ### MECE Analyzing
-Write an interview guide before meetings.
-Prepare for meetings, always.
-Always come in with a hypotheses; otherwise you waste too much time looking for ideas.
+- Write an interview guide before meetings.
+- Prepare for meetings, always.
+- Always come in with a hypotheses; otherwise you waste too much time looking for ideas.
 
 ### MECE Communication
-Know your solution thoroughly that you can explain it in 30 seconds.
-A good business message has three attributes; brevity, thoroughness and structure.
-Always let the interviewer know that you are listening. Take notes, always.
-Just say, "I don't know".
+- Know your solution thoroughly that you can explain it in 30 seconds.
+- A good business message has three attributes; brevity, thoroughness and structure.
+- Always let the interviewer know that you are listening. Take notes, always.
+- Just say, "I don't know".
 
 ## Charts
-Presentate your knowledge through charts.
-One message per chart.
-Go for the flow with the waterfall chart.
-Create simple charts.
+- Presentate your knowledge through charts.
+- One message per chart.
+- Go for the flow with the waterfall chart.
+- Create simple charts.
 
 ## Other things
-Before looking for a solution, get a feel for the scope of the problem.
-Ask yourself at the end of the day, what are the three most important things I learned today. Put them down in a chart or two.
-Always ask yourself why something is done this way? Is this the best way it can be done? Be fundamentally sceptical.
-Look for best practice.
-Get your job done-don't try to do the work of the whole team.
+- Before looking for a solution, get a feel for the scope of the problem.
+- Ask yourself at the end of the day, what are the three most important things I learned today. Put them down in a chart or two.
+- Always ask yourself why something is done this way? Is this the best way it can be done? Be fundamentally sceptical.
+- Look for best practice.
+- Get your job done-don't try to do the work of the whole team.
