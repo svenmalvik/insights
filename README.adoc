@@ -1,6 +1,6 @@
 = Insights
 
-== A pull request must be understand by others.
+== Reviewing a pull request is hard.
 Comments on Pull Requests
 
 image::pull-request/pull-request.jpg[pull-request]
