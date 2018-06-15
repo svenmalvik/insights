@@ -14,3 +14,5 @@ image::the-mckinsey-way/the-mckinsey-way.jpg[the-mckinsey-way]
 Git blame vs. git log
 
 image::git/git.jpg[git blame vs. git log]
+
+image::git/squash.jpg[git squash]
