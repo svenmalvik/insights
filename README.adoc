@@ -17,4 +17,4 @@ image::git.jpg[git blame vs. git log]
 
 image::squash.jpg[git squash]
 
-image::singe-container-management-pattern.jpg[Single-Container Management Pattern]
+image::single-container-management-pattern.jpg[Single-Container Management Pattern]
