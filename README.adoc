@@ -1,5 +1,9 @@
 = Insights
 
+image::single-container-management-pattern.jpg[Single-Container Management Pattern]
+
+image::squash.jpg[git squash]
+
 == Reviewing a pull request is hard.
 Comments on Pull Requests
 
@@ -15,6 +19,4 @@ Git blame vs. git log
 
 image::git.jpg[git blame vs. git log]
 
-image::squash.jpg[git squash]
 
-image::single-container-management-pattern.jpg[Single-Container Management Pattern]
