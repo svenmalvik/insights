@@ -4,9 +4,6 @@ image::single-container-management-pattern.jpg[Single-Container Management Patte
 
 image::squash.jpg[git squash]
 
-== Reviewing a pull request is hard.
-Comments on Pull Requests
-
 image::pull-request.jpg[pull-request]
 
 == Deep dive into tour task.
