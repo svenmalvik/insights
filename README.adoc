@@ -1,5 +1,7 @@
 = Insights
 
+image::ambassador-pattern.jpg[Ambassador Pattern]
+
 image::single-container-management-pattern.jpg[Single-Container Management Pattern]
 
 image::squash.jpg[git squash]
