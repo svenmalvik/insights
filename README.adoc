@@ -12,9 +12,6 @@ image::squash.jpg[git squash]
 
 image::pull-request.jpg[pull-request]
 
-== Deep dive into tour task.
-Takeaways from the book "The McKinsey Way".
-
 image::the-mckinsey-way.jpg[the-mckinsey-way]
 
 image::git.jpg[git blame vs. git log]
