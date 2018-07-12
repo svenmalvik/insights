@@ -1,5 +1,7 @@
 = Insights
 
+image::sidecar-pattern.jpg[Sidecar Pattern]
+
 image::ambassador-pattern.jpg[Ambassador Pattern]
 
 image::adapter-pattern.jpg[Adapter Pattern]
