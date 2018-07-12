@@ -15,9 +15,6 @@ Takeaways from the book "The McKinsey Way".
 
 image::the-mckinsey-way.jpg[the-mckinsey-way]
 
-== Git blame won't tell you what's deleted. It's git log that knows about the past.
-Git blame vs. git log
-
 image::git.jpg[git blame vs. git log]
 
 
